@@ -1,0 +1,3 @@
+method,n_tests,psnr_hole_mean,psnr_hole_std,psnr_hole_median,ssim_hole_mean,ssim_hole_std,ssim_hole_median,psnr_full_mean,psnr_full_std,psnr_full_median,ssim_full_mean,ssim_full_std,ssim_full_median,time_s_mean,time_s_std,time_s_median
+LaMa,72,19.8009,3.5946,18.9817,0.5225,0.1648,0.5073,28.6653,5.4829,27.643,0.9152,0.0628,0.9217,3.5243,0.3062,3.491
+Telea,72,18.1452,3.18,17.5247,0.4705,0.1503,0.451,27.0096,5.238,26.1942,0.9084,0.0635,0.9153,0.0408,0.0235,0.0385

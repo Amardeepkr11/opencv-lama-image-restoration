@@ -1,0 +1,26 @@
+.auto {
+  width: auto;
+  height: auto;
+}
+
+.fullWidth {
+  width: 100%;
+  height: auto;
+}
+
+body {
+  margin: 0;
+}
+
+img {
+  user-select: none;
+}
+
+#image-container {
+  overflow-x: auto;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+}

@@ -1,0 +1,5 @@
+hole_target_pct,n_tests,lama_wins_psnr_hole,lama_wins_ssim_hole,mean_psnr_hole_gain_db,mean_ssim_hole_gain,mean_time_ratio_lama_over_telea
+5.0,24,19,20,1.696,0.0758,233.92
+15.0,24,21,18,1.4476,0.0536,93.31
+30.0,24,22,16,1.8235,0.0265,53.65
+all,72,62,54,1.6557,0.052,126.96
